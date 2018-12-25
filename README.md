@@ -1,2 +1,6 @@
 # 空当接龙(kdjl)
-![Image text](https://github.com/aschen518/kdjl?branch=master&filepath=img%2Fjt1.jpg)
+![Image text](https://raw.githubusercontent.com/aschen518/kdjl/master/img/jt1.jpg)
+![Image text](https://raw.githubusercontent.com/aschen518/kdjl/master/img/jt2.jpg)
+![Image text](https://raw.githubusercontent.com/aschen518/kdjl/master/img/jt3.jpg)
+![Image text](https://raw.githubusercontent.com/aschen518/kdjl/master/img/jt4.jpg)
+![Image text](https://raw.githubusercontent.com/aschen518/kdjl/master/img/jt5.jpg)
